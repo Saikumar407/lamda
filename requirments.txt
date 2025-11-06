@@ -1,0 +1,5 @@
+django
+djangorest framework
+numpy
+pandas
+streamlit
