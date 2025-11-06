@@ -3,3 +3,6 @@ djangorest framework
 numpy
 pandas
 streamlit
+flake8
+black
+pytest
