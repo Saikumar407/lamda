@@ -1,6 +1,6 @@
 
 django
-djangorest framework
+djangorestframework
 numpy
 pandas
 streamlit
